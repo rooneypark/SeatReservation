@@ -12,7 +12,7 @@ import io.reactivex.disposables.Disposable;
 import io.reactivex.functions.Action;
 import io.reactivex.functions.Consumer;
 import kr.co.samickthk.seatreservation.R;
-import kr.co.samickthk.seatreservation.ReservationManager;
+import kr.co.samickthk.seatreservation.reservation.ReservationManager;
 import org.json.JSONObject;
 
 public class ReservationFragment extends Fragment {
